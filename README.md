@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Container Routing Optimization API
 
 This API optimizes container routing at ports, managing container allocation, berth management, and task scheduling based on dynamic constraints such as arrival rates, berth limits, and priority rules. It is designed to handle heavy concurrent loads with low latency and graceful degradation.
@@ -110,3 +111,6 @@ curl -X POST http://localhost:5000/optimize-routing -d '{
 7. **License**: Information about the project's open-source license.
 
 This concise, one-page `README.md` will give users all the necessary information to set up, use, and contribute to your project. Let me know if you need any further adjustments!
+=======
+# System_Design
+>>>>>>> f072c5dfa4648dc85c975671b8c5ef632770f0fc
